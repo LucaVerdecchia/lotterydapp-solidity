@@ -18,19 +18,10 @@ The main concept behind this idea is the following:
 - Change in deploy.js:
   - SubscriptionID
   - NFT_BASEURI
+  
 In a production env this should be set inside .env file 
 
 
 ### Final words
 Thanks to Fabio for bringing his knowledge in this area and for answering all my questions during the live, last but not least the entire MasterZ team for making this possible! A big thank you also goes to Alecos for selecting me for the scholarship!
-
-
-Main User:
-0xBBB4C6aeb0793372868FDb72aA0Ce7b952e22525
-
-0x4AdE465F18AF881A87f17975410854644d13CeA0
-0x72C619e92784920B51BEb65d9083c56CA215F4Ba
-0xF657cB6DD1E987Ef32dfC253c77e194Ee5C1e5dB
-0x494a49050667c2D3E3b87Ceb755061B870480Fde
-
 
