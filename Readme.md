@@ -27,3 +27,6 @@ In a production env this should be set inside .env file
 ### Final words
 Thanks to Fabio for bringing his knowledge in this area and for answering all my questions during the live, last but not least the entire MasterZ team for making this possible! A big thank you also goes to Alecos for selecting me for the scholarship!
 
+## How To Run
+yarn install
+truffle --help
