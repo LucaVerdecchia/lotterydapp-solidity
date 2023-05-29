@@ -1,4 +1,6 @@
 ## Lottery DAPP by Verdecchia Luca
+Related Frontend project: https://github.com/LucaVerdecchia/lotterydapp-frontend
+
 Welcome to my project about Lottery! 
 Lottery is a big topic! Indeed it is used by many company's for many things, one crucial aspect is the security and how the final number is extracted.
 In Web 2 systems the number can be exploited and no-one notice it as the code is ran on the backend infrastructure, that mean the final user doesn't know how the 
