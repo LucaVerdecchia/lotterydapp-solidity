@@ -29,4 +29,5 @@ Thanks to Fabio for bringing his knowledge in this area and for answering all my
 
 ## How To Run
 yarn install
+
 truffle --help
